@@ -76,7 +76,7 @@
     },
     "CuevanaProvider": {
         "name": "Cuevana",
-        "url": "https://cuevana3.is",
+        "url": "https://cuevana.is",
         "status": 1
     },
     "DoramasYTProvider": {
